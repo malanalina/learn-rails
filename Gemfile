@@ -10,6 +10,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
+gem "binding_of_caller", "~> 0.7.2"
  
  # learn-rails
 gem 'activerecord-tableless'
